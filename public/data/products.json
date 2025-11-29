@@ -1,0 +1,552 @@
+[
+  {
+    "id": "moringa-soup-drop",
+    "name": "Moringa Soup Drop",
+    "category": "Soup Drops",
+    "price": 120,
+    "image": "/images/moringa-soup.jpg",
+    "description": "Organic moringa soup drop made using natural ingredients. Rich in vitamins and minerals, perfect for a healthy lifestyle.",
+    "ingredients": "Moringa leaves powder, Natural herbs, Sea salt, Organic spices",
+    "nutrition": {
+      "calories": 25,
+      "protein": "2g",
+      "fiber": "1g",
+      "carbs": "4g",
+      "fat": "0.5g"
+    },
+    "benefits": [
+      "Rich in antioxidants",
+      "Boosts immunity",
+      "Improves digestion",
+      "Natural energy source"
+    ]
+  },
+  {
+    "id": "horsegram-soup-drop",
+    "name": "Horsegram Soup Drop",
+    "category": "Soup Drops",
+    "price": 115,
+    "image": "/images/horsegram-soup.jpg",
+    "description": "Traditional horsegram soup drops packed with protein and essential nutrients.",
+    "ingredients": "Horsegram powder, Cumin, Black pepper, Natural herbs, Sea salt",
+    "nutrition": {
+      "calories": 30,
+      "protein": "3g",
+      "fiber": "2g",
+      "carbs": "5g",
+      "fat": "0.5g"
+    },
+    "benefits": [
+      "High in protein",
+      "Aids weight management",
+      "Rich in iron",
+      "Supports heart health"
+    ]
+  },
+  {
+    "id": "mushroom-soup-drop",
+    "name": "Mushroom Soup Drop",
+    "category": "Soup Drops",
+    "price": 130,
+    "image": "/images/mushroom-soup.jpg",
+    "description": "Delicious mushroom soup drops with rich umami flavor and nutritional benefits.",
+    "ingredients": "Dried mushrooms, Onion powder, Garlic, Natural herbs, Sea salt",
+    "nutrition": {
+      "calories": 28,
+      "protein": "2.5g",
+      "fiber": "1.5g",
+      "carbs": "4.5g",
+      "fat": "0.8g"
+    },
+    "benefits": [
+      "Boosts immune system",
+      "Rich in vitamin D",
+      "Antioxidant properties",
+      "Supports brain health"
+    ]
+  },
+  {
+    "id": "vegetable-soup-drop",
+    "name": "Vegetable Soup Drop",
+    "category": "Soup Drops",
+    "price": 110,
+    "image": "/images/vegetable-soup.jpg",
+    "description": "Nutritious blend of organic vegetables in an instant soup drop format.",
+    "ingredients": "Mixed vegetables powder, Tomato, Carrot, Natural herbs, Sea salt",
+    "nutrition": {
+      "calories": 22,
+      "protein": "1.5g",
+      "fiber": "2g",
+      "carbs": "4g",
+      "fat": "0.3g"
+    },
+    "benefits": [
+      "Rich in vitamins",
+      "Low calorie",
+      "High in fiber",
+      "Supports digestion"
+    ]
+  },
+  {
+    "id": "digestive-soup-drop",
+    "name": "Digestive Soup Drop",
+    "category": "Soup Drops",
+    "price": 125,
+    "image": "/images/digestive-soup.jpg",
+    "description": "Special blend of herbs and spices to support healthy digestion.",
+    "ingredients": "Ginger, Cumin, Fennel, Ajwain, Natural digestive herbs",
+    "nutrition": {
+      "calories": 20,
+      "protein": "1g",
+      "fiber": "1.5g",
+      "carbs": "3.5g",
+      "fat": "0.5g"
+    },
+    "benefits": [
+      "Improves digestion",
+      "Reduces bloating",
+      "Soothes stomach",
+      "Natural and gentle"
+    ]
+  },
+  {
+    "id": "orange-juice-drop",
+    "name": "Orange Juice Drop",
+    "category": "Juice Drops",
+    "price": 95,
+    "image": "/images/orange-juice.jpg",
+    "description": "Pure organic orange juice in convenient drop format. Rich in vitamin C.",
+    "ingredients": "100% Organic orange concentrate, Natural flavor",
+    "nutrition": {
+      "calories": 35,
+      "protein": "0.5g",
+      "fiber": "0.5g",
+      "carbs": "8g",
+      "fat": "0g"
+    },
+    "benefits": [
+      "High in vitamin C",
+      "Boosts immunity",
+      "Natural energy",
+      "Antioxidant rich"
+    ]
+  },
+  {
+    "id": "apple-juice-drop",
+    "name": "Apple Juice Drop",
+    "category": "Juice Drops",
+    "price": 90,
+    "image": "/images/apple-juice.jpg",
+    "description": "Fresh organic apple juice drops with natural sweetness.",
+    "ingredients": "100% Organic apple concentrate, Natural flavor",
+    "nutrition": {
+      "calories": 32,
+      "protein": "0.3g",
+      "fiber": "0.8g",
+      "carbs": "7.5g",
+      "fat": "0g"
+    },
+    "benefits": [
+      "Heart healthy",
+      "Rich in antioxidants",
+      "Supports digestion",
+      "Natural sweetness"
+    ]
+  },
+  {
+    "id": "grapes-juice-drop",
+    "name": "Grapes Juice Drop",
+    "category": "Juice Drops",
+    "price": 100,
+    "image": "/images/grapes-juice.jpg",
+    "description": "Premium grape juice drops packed with natural goodness.",
+    "ingredients": "100% Organic grapes concentrate, Natural flavor",
+    "nutrition": {
+      "calories": 38,
+      "protein": "0.4g",
+      "fiber": "0.5g",
+      "carbs": "9g",
+      "fat": "0g"
+    },
+    "benefits": [
+      "Rich in resveratrol",
+      "Heart protective",
+      "Anti-aging properties",
+      "Natural energy boost"
+    ]
+  },
+  {
+    "id": "pomegranate-juice-drop",
+    "name": "Pomegranate Juice Drop",
+    "category": "Juice Drops",
+    "price": 110,
+    "image": "/images/pomegranate-juice.jpg",
+    "description": "Nutrient-dense pomegranate juice drops with powerful antioxidants.",
+    "ingredients": "100% Organic pomegranate concentrate, Natural flavor",
+    "nutrition": {
+      "calories": 40,
+      "protein": "0.6g",
+      "fiber": "0.5g",
+      "carbs": "9.5g",
+      "fat": "0g"
+    },
+    "benefits": [
+      "Powerful antioxidants",
+      "Supports heart health",
+      "Anti-inflammatory",
+      "Boosts immunity"
+    ]
+  },
+  {
+    "id": "watermelon-juice-drop",
+    "name": "Watermelon Juice Drop",
+    "category": "Juice Drops",
+    "price": 85,
+    "image": "/images/watermelon-juice.jpg",
+    "description": "Refreshing watermelon juice drops perfect for hydration.",
+    "ingredients": "100% Organic watermelon concentrate, Natural flavor",
+    "nutrition": {
+      "calories": 28,
+      "protein": "0.3g",
+      "fiber": "0.3g",
+      "carbs": "7g",
+      "fat": "0g"
+    },
+    "benefits": [
+      "Hydrating",
+      "Rich in lycopene",
+      "Low calorie",
+      "Refreshing taste"
+    ]
+  },
+  {
+    "id": "apple-powder",
+    "name": "Apple Powder",
+    "category": "Dried Fruit Powders",
+    "price": 150,
+    "image": "/images/apple-powder.jpg",
+    "description": "Pure dried apple powder made from premium organic apples.",
+    "ingredients": "100% Organic dried apple",
+    "nutrition": {
+      "calories": 45,
+      "protein": "0.5g",
+      "fiber": "2g",
+      "carbs": "11g",
+      "fat": "0.2g"
+    },
+    "benefits": [
+      "Rich in fiber",
+      "Natural sweetener",
+      "Versatile use",
+      "Long shelf life"
+    ]
+  },
+  {
+    "id": "orange-powder",
+    "name": "Orange Powder",
+    "category": "Dried Fruit Powders",
+    "price": 145,
+    "image": "/images/orange-powder.jpg",
+    "description": "Vibrant orange powder rich in vitamin C and flavor.",
+    "ingredients": "100% Organic dried orange",
+    "nutrition": {
+      "calories": 42,
+      "protein": "0.6g",
+      "fiber": "1.5g",
+      "carbs": "10g",
+      "fat": "0.1g"
+    },
+    "benefits": [
+      "Vitamin C rich",
+      "Immune support",
+      "Natural flavor",
+      "Antioxidant power"
+    ]
+  },
+  {
+    "id": "guava-powder",
+    "name": "Guava Powder",
+    "category": "Dried Fruit Powders",
+    "price": 160,
+    "image": "/images/guava-powder.jpg",
+    "description": "Exotic guava powder with tropical flavor and nutrients.",
+    "ingredients": "100% Organic dried guava",
+    "nutrition": {
+      "calories": 48,
+      "protein": "0.8g",
+      "fiber": "3g",
+      "carbs": "11g",
+      "fat": "0.3g"
+    },
+    "benefits": [
+      "High in fiber",
+      "Rich in vitamin C",
+      "Digestive health",
+      "Unique flavor"
+    ]
+  },
+  {
+    "id": "sweet-potato-powder",
+    "name": "Sweet Potato Powder",
+    "category": "Dried Fruit Powders",
+    "price": 140,
+    "image": "/images/sweet-potato-powder.jpg",
+    "description": "Nutritious sweet potato powder for healthy recipes.",
+    "ingredients": "100% Organic dried sweet potato",
+    "nutrition": {
+      "calories": 55,
+      "protein": "1.2g",
+      "fiber": "2.5g",
+      "carbs": "13g",
+      "fat": "0.2g"
+    },
+    "benefits": [
+      "Rich in beta-carotene",
+      "Complex carbs",
+      "Energy sustaining",
+      "Nutrient dense"
+    ]
+  },
+  {
+    "id": "banana-powder",
+    "name": "Banana Powder",
+    "category": "Dried Fruit Powders",
+    "price": 135,
+    "image": "/images/banana-powder.jpg",
+    "description": "Natural banana powder perfect for smoothies and baking.",
+    "ingredients": "100% Organic dried banana",
+    "nutrition": {
+      "calories": 50,
+      "protein": "0.7g",
+      "fiber": "2g",
+      "carbs": "12g",
+      "fat": "0.2g"
+    },
+    "benefits": [
+      "Rich in potassium",
+      "Natural sweetness",
+      "Energy boost",
+      "Digestive support"
+    ]
+  },
+  {
+    "id": "orange-jelly",
+    "name": "Orange Jelly",
+    "category": "Jellies",
+    "price": 80,
+    "image": "/images/orange-jelly.jpg",
+    "description": "Delicious orange jelly made with natural fruit extracts.",
+    "ingredients": "Orange extract, Natural pectin, Organic sugar, Citric acid",
+    "nutrition": {
+      "calories": 65,
+      "protein": "0.2g",
+      "fiber": "0.5g",
+      "carbs": "16g",
+      "fat": "0g"
+    },
+    "benefits": [
+      "Natural fruit flavor",
+      "No artificial colors",
+      "Fun snack",
+      "Vitamin C"
+    ]
+  },
+  {
+    "id": "apple-jelly",
+    "name": "Apple Jelly",
+    "category": "Jellies",
+    "price": 75,
+    "image": "/images/apple-jelly.jpg",
+    "description": "Sweet apple jelly with authentic fruit taste.",
+    "ingredients": "Apple extract, Natural pectin, Organic sugar, Citric acid",
+    "nutrition": {
+      "calories": 62,
+      "protein": "0.2g",
+      "fiber": "0.5g",
+      "carbs": "15g",
+      "fat": "0g"
+    },
+    "benefits": [
+      "Natural ingredients",
+      "Kid-friendly",
+      "Quick energy",
+      "Delicious taste"
+    ]
+  },
+  {
+    "id": "grapes-jelly",
+    "name": "Grapes Jelly",
+    "category": "Jellies",
+    "price": 85,
+    "image": "/images/grapes-jelly.jpg",
+    "description": "Premium grape jelly with rich natural flavor.",
+    "ingredients": "Grapes extract, Natural pectin, Organic sugar, Citric acid",
+    "nutrition": {
+      "calories": 68,
+      "protein": "0.2g",
+      "fiber": "0.5g",
+      "carbs": "17g",
+      "fat": "0g"
+    },
+    "benefits": [
+      "Antioxidant rich",
+      "Natural sweetness",
+      "No preservatives",
+      "Great for kids"
+    ]
+  },
+  {
+    "id": "apple-sweet-paper",
+    "name": "Apple Sweet Paper Roll",
+    "category": "Sweet Paper Rolls",
+    "price": 70,
+    "image": "/images/apple-paper.jpg",
+    "description": "Thin, delicate apple sweet paper roll with natural fruit flavor.",
+    "ingredients": "Apple puree, Organic sugar, Natural flavor",
+    "nutrition": {
+      "calories": 55,
+      "protein": "0.3g",
+      "fiber": "1g",
+      "carbs": "13g",
+      "fat": "0g"
+    },
+    "benefits": [
+      "Fun to eat",
+      "Natural fruit",
+      "Low fat",
+      "Portable snack"
+    ]
+  },
+  {
+    "id": "orange-sweet-paper",
+    "name": "Orange Sweet Paper Roll",
+    "category": "Sweet Paper Rolls",
+    "price": 75,
+    "image": "/images/orange-paper.jpg",
+    "description": "Tangy orange sweet paper roll bursting with citrus flavor.",
+    "ingredients": "Orange puree, Organic sugar, Natural flavor",
+    "nutrition": {
+      "calories": 58,
+      "protein": "0.3g",
+      "fiber": "0.8g",
+      "carbs": "14g",
+      "fat": "0g"
+    },
+    "benefits": [
+      "Vitamin C boost",
+      "Natural flavor",
+      "Fun texture",
+      "Kid favorite"
+    ]
+  },
+  {
+    "id": "guava-sweet-paper",
+    "name": "Guava Sweet Paper Roll",
+    "category": "Sweet Paper Rolls",
+    "price": 80,
+    "image": "/images/guava-paper.jpg",
+    "description": "Exotic guava sweet paper roll with tropical taste.",
+    "ingredients": "Guava puree, Organic sugar, Natural flavor",
+    "nutrition": {
+      "calories": 60,
+      "protein": "0.4g",
+      "fiber": "1.2g",
+      "carbs": "14g",
+      "fat": "0g"
+    },
+    "benefits": [
+      "Tropical flavor",
+      "High in fiber",
+      "Natural snack",
+      "Unique taste"
+    ]
+  },
+  {
+    "id": "grapes-sweet-paper",
+    "name": "Grapes Sweet Paper Roll",
+    "category": "Sweet Paper Rolls",
+    "price": 78,
+    "image": "/images/grapes-paper.jpg",
+    "description": "Sweet grape paper roll with authentic fruit essence.",
+    "ingredients": "Grapes puree, Organic sugar, Natural flavor",
+    "nutrition": {
+      "calories": 62,
+      "protein": "0.3g",
+      "fiber": "0.8g",
+      "carbs": "15g",
+      "fat": "0g"
+    },
+    "benefits": [
+      "Antioxidants",
+      "Natural energy",
+      "Delicious",
+      "Convenient"
+    ]
+  },
+  {
+    "id": "dried-orange",
+    "name": "Dried Orange",
+    "category": "Dried Fruits",
+    "price": 120,
+    "image": "/images/dried-orange.jpg",
+    "description": "Premium dried orange slices retaining natural sweetness and nutrients.",
+    "ingredients": "100% Organic orange slices",
+    "nutrition": {
+      "calories": 70,
+      "protein": "0.8g",
+      "fiber": "2.5g",
+      "carbs": "17g",
+      "fat": "0.2g"
+    },
+    "benefits": [
+      "Rich in vitamin C",
+      "Natural fiber",
+      "No added sugar",
+      "Convenient snack"
+    ]
+  },
+  {
+    "id": "dried-grapes",
+    "name": "Dried Grapes",
+    "category": "Dried Fruits",
+    "price": 110,
+    "image": "/images/dried-grapes.jpg",
+    "description": "Sweet and nutritious dried grapes (raisins) from organic vineyards.",
+    "ingredients": "100% Organic dried grapes",
+    "nutrition": {
+      "calories": 75,
+      "protein": "0.9g",
+      "fiber": "1.8g",
+      "carbs": "18g",
+      "fat": "0.1g"
+    },
+    "benefits": [
+      "Energy rich",
+      "Iron source",
+      "Natural sweetness",
+      "Heart healthy"
+    ]
+  },
+  {
+    "id": "dried-banana",
+    "name": "Dried Banana",
+    "category": "Dried Fruits",
+    "price": 100,
+    "image": "/images/dried-banana.jpg",
+    "description": "Delicious dried banana chips with natural sweetness.",
+    "ingredients": "100% Organic banana slices",
+    "nutrition": {
+      "calories": 80,
+      "protein": "1g",
+      "fiber": "2g",
+      "carbs": "19g",
+      "fat": "0.3g"
+    },
+    "benefits": [
+      "Potassium rich",
+      "Quick energy",
+      "Natural snack",
+      "Great taste"
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "soup-drops",
+    "name": "Soup Drops",
+    "slug": "Soup Drops",
+    "description": "Instant organic soup drops packed with nutrition and flavor. Just add hot water for a healthy, delicious soup.",
+    "image": "/images/category-soup.jpg",
+    "icon": "🍲"
+  },
+  {
+    "id": "juice-drops",
+    "name": "Juice Drops",
+    "slug": "Juice Drops",
+    "description": "Pure organic juice concentrates in convenient drop format. Rich in vitamins and natural goodness.",
+    "image": "/images/category-juice.jpg",
+    "icon": "🧃"
+  },
+  {
+    "id": "dried-fruit-powders",
+    "name": "Dried Fruit Powders",
+    "slug": "Dried Fruit Powders",
+    "description": "Premium dried fruit powders perfect for smoothies, baking, and healthy recipes.",
+    "image": "/images/category-powder.jpg",
+    "icon": "🥤"
+  },
+  {
+    "id": "jellies",
+    "name": "Natural Jellies",
+    "slug": "Jellies",
+    "description": "Delicious natural fruit jellies made with real fruit extracts. Perfect healthy treat for all ages.",
+    "image": "/images/category-jelly.jpg",
+    "icon": "🍬"
+  },
+  {
+    "id": "sweet-paper-rolls",
+    "name": "Sweet Paper Rolls",
+    "slug": "Sweet Paper Rolls",
+    "description": "Unique sweet paper rolls made from pure fruit. Fun, healthy, and delicious snack option.",
+    "image": "/images/category-paper.jpg",
+    "icon": "📜"
+  },
+  {
+    "id": "dried-fruits",
+    "name": "Dried Fruits",
+    "slug": "Dried Fruits",
+    "description": "Premium quality dried fruits with no added sugar. Natural, healthy, and full of flavor.",
+    "image": "/images/category-dried.jpg",
+    "icon": "🍊"
+  }
+]
